@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300&display=swap');
+
+*{
+    font-family:  'Roboto', sans-serif;;
+}
+
+header{
+    border-bottom: 2px solid black;
+}
+
+.main__header{
+    color: white;
+    height: 70vh;
+    background-image: url(img/gucci/aigi0-mapok.jpg);
+    background-size:cover;
+    background-position: center;
+    
+}
+
+.carrito{
+    border: 2px solid black;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    height: 5rem;
+}
+
+span{
+    font-size: 1.2rem;
+}
+
+.iconos__footer{
+    margin-left: 1rem;
+}
